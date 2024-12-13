@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.applicationcore\\service\\prestataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|solutionrelative:test.applicationcore\\service\\prestataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.applicationcore\\domain\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|solutionrelative:test.applicationcore\\domain\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.applicationcore\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|solutionrelative:test.applicationcore\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.applicationcore\\interface\\iprestataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|solutionrelative:test.applicationcore\\interface\\iprestataireservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44FA111-613E-4D83-8732-60BA994731EF}|Test.Infrastructure\\Test.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.infrastructure\\migrations\\20241212235505_rouri2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44FA111-613E-4D83-8732-60BA994731EF}|Test.Infrastructure\\Test.Infrastructure.csproj|solutionrelative:test.infrastructure\\migrations\\20241212235505_rouri2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44FA111-613E-4D83-8732-60BA994731EF}|Test.Infrastructure\\Test.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.infrastructure\\migrations\\20241212233246_rouri1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44FA111-613E-4D83-8732-60BA994731EF}|Test.Infrastructure\\Test.Infrastructure.csproj|solutionrelative:test.infrastructure\\migrations\\20241212233246_rouri1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.applicationcore\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|solutionrelative:test.applicationcore\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.applicationcore\\domain\\coordonnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|solutionrelative:test.applicationcore\\domain\\coordonnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44FA111-613E-4D83-8732-60BA994731EF}|Test.Infrastructure\\Test.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.infrastructure\\configuration\\prestationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44FA111-613E-4D83-8732-60BA994731EF}|Test.Infrastructure\\Test.Infrastructure.csproj|solutionrelative:test.infrastructure\\configuration\\prestationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44FA111-613E-4D83-8732-60BA994731EF}|Test.Infrastructure\\Test.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44FA111-613E-4D83-8732-60BA994731EF}|Test.Infrastructure\\Test.Infrastructure.csproj|solutionrelative:test.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.applicationcore\\domain\\prestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|solutionrelative:test.applicationcore\\domain\\prestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.applicationcore\\domain\\prestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|solutionrelative:test.applicationcore\\domain\\prestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09976D-9B61-4804-A3D7-3D8F57CDCD3C}|Test.Console\\Test.Console.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.console\\test.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB09976D-9B61-4804-A3D7-3D8F57CDCD3C}|Test.Console\\Test.Console.csproj|solutionrelative:test.console\\test.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44FA111-613E-4D83-8732-60BA994731EF}|Test.Infrastructure\\Test.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.infrastructure\\test.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D44FA111-613E-4D83-8732-60BA994731EF}|Test.Infrastructure\\Test.Infrastructure.csproj|solutionrelative:test.infrastructure\\test.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.applicationcore\\test.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28DF3FF5-058E-428C-BBDC-6C3AA8F6893A}|Test.ApplicationCore\\Test.ApplicationCore.csproj|solutionrelative:test.applicationcore\\test.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09976D-9B61-4804-A3D7-3D8F57CDCD3C}|Test.Console\\Test.Console.csproj|c:\\users\\lenovo\\source\\repos\\test.rayeneksouri\\test.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB09976D-9B61-4804-A3D7-3D8F57CDCD3C}|Test.Console\\Test.Console.csproj|solutionrelative:test.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Service\\Service.cs",
+              "RelativeDocumentMoniker": "Test.ApplicationCore\\Service\\Service.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Service\\Service.cs",
+              "RelativeToolTip": "Test.ApplicationCore\\Service\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:04:32.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestataireService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Service\\PrestataireService.cs",
+              "RelativeDocumentMoniker": "Test.ApplicationCore\\Service\\PrestataireService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Service\\PrestataireService.cs",
+              "RelativeToolTip": "Test.ApplicationCore\\Service\\PrestataireService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:00:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrestataireService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Interface\\IPrestataireService.cs",
+              "RelativeDocumentMoniker": "Test.ApplicationCore\\Interface\\IPrestataireService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Interface\\IPrestataireService.cs",
+              "RelativeToolTip": "Test.ApplicationCore\\Interface\\IPrestataireService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:59:09.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241212235505_rouri2.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Infrastructure\\Migrations\\20241212235505_rouri2.cs",
+              "RelativeDocumentMoniker": "Test.Infrastructure\\Migrations\\20241212235505_rouri2.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Infrastructure\\Migrations\\20241212235505_rouri2.cs",
+              "RelativeToolTip": "Test.Infrastructure\\Migrations\\20241212235505_rouri2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:55:05.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Specialite.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Domain\\Specialite.cs",
+              "RelativeDocumentMoniker": "Test.ApplicationCore\\Domain\\Specialite.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Domain\\Specialite.cs",
+              "RelativeToolTip": "Test.ApplicationCore\\Domain\\Specialite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:02:46.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Coordonnes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Domain\\Coordonnes.cs",
+              "RelativeDocumentMoniker": "Test.ApplicationCore\\Domain\\Coordonnes.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Domain\\Coordonnes.cs",
+              "RelativeToolTip": "Test.ApplicationCore\\Domain\\Coordonnes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:46:38.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241212233246_rouri1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Infrastructure\\Migrations\\20241212233246_rouri1.cs",
+              "RelativeDocumentMoniker": "Test.Infrastructure\\Migrations\\20241212233246_rouri1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Infrastructure\\Migrations\\20241212233246_rouri1.cs",
+              "RelativeToolTip": "Test.Infrastructure\\Migrations\\20241212233246_rouri1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:32:46.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "Test.ApplicationCore\\Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Domain\\Client.cs",
+              "RelativeToolTip": "Test.ApplicationCore\\Domain\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:49:56.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrestationConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Infrastructure\\Configuration\\PrestationConfig.cs",
+              "RelativeDocumentMoniker": "Test.Infrastructure\\Configuration\\PrestationConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Infrastructure\\Configuration\\PrestationConfig.cs",
+              "RelativeToolTip": "Test.Infrastructure\\Configuration\\PrestationConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:46:57.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prestation.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Domain\\Prestation.cs",
+              "RelativeDocumentMoniker": "Test.ApplicationCore\\Domain\\Prestation.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Domain\\Prestation.cs",
+              "RelativeToolTip": "Test.ApplicationCore\\Domain\\Prestation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:12:44.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Prestataire.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Domain\\Prestataire.cs",
+              "RelativeDocumentMoniker": "Test.ApplicationCore\\Domain\\Prestataire.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Domain\\Prestataire.cs",
+              "RelativeToolTip": "Test.ApplicationCore\\Domain\\Prestataire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:51:33.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Infrastructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "Test.Infrastructure\\AMContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Infrastructure\\AMContext.cs",
+              "RelativeToolTip": "Test.Infrastructure\\AMContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:35:18.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Test.ApplicationCore.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Test.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "Test.ApplicationCore\\Test.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.ApplicationCore\\Test.ApplicationCore.csproj",
+              "RelativeToolTip": "Test.ApplicationCore\\Test.ApplicationCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T19:30:48.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Test.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Infrastructure\\Test.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Test.Infrastructure\\Test.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Infrastructure\\Test.Infrastructure.csproj",
+              "RelativeToolTip": "Test.Infrastructure\\Test.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T19:30:23.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Test.Console.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Console\\Test.Console.csproj",
+              "RelativeDocumentMoniker": "Test.Console\\Test.Console.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Console\\Test.Console.csproj",
+              "RelativeToolTip": "Test.Console\\Test.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T19:24:13.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Test.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Test.RayeneKsouri\\Test.Console\\Program.cs",
+              "RelativeToolTip": "Test.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:19:51.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
